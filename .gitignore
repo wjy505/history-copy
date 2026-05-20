@@ -1,0 +1,9 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+test_*.py
+generate_icon.py
